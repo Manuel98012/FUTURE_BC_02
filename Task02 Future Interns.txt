@@ -1,0 +1,17 @@
+Task 02
+
+GitHub: https://github.com/Manuel98012/FUTURE_BC_01/blob/main/Code%20Smart%20Contract%20Task%2002%20Future%20Interns
+
+Token Metadata:
+
+Name: CesarCoin
+Symbol: CES
+Decimals: 9
+Total Supply: 1,000,000,000
+
+
+Testnet Address (BNB Smart Chain Testnet): 0xd2a02d5B68c3a335592082E6Fe15626F1E6b02E4
+
+
+https://bscscan.com/tx/0x1d6fb4e9b26cba97f188167df0cbcd19f708031e46345ca2ec6e043188d5e3b6
+https://bscscan.com/token/0xd2a02d5b68c3a335592082e6fe15626f1e6b02e4
